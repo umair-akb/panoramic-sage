@@ -10,7 +10,7 @@ sections:
       - label: Discord
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Available Plugins
         url: /contact
         style: secondary
     align: left
