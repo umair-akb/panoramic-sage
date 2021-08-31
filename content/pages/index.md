@@ -7,7 +7,7 @@ sections:
       We sell the most elite, custom OpenOSRS Plugins on the market. No
       complicated setups. Get started within 5 minutes.
     actions:
-      - label: Learn More
+      - label: Discord
         url: /features
         style: primary
       - label: Contact Us
