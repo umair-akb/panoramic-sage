@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: OpenOSRS Plugins
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We sell the most elite, custom OpenOSRS Plugins on the market. No
+      complicated setups. Get started within 5 minutes.
     actions:
       - label: Learn More
         url: /features
