@@ -1,37 +1,6 @@
 {
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
-    "header": {
-        "title": "Hydra Technologies",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            }
-        ]
-    },
     "footer": {
         "has_nav": true,
         "nav_links": [
