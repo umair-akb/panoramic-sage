@@ -41,6 +41,7 @@ sections:
           - label: Discord
             url: /features
             style: secondary
+            new_window: true
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
