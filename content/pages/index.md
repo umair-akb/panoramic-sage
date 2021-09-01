@@ -5,7 +5,8 @@ sections:
     title: OpenOSRS Plugins
     subtitle: >-
       We sell the most elite, custom OpenOSRS Plugins on the market. No
-      complicated setups. Get started within 5 minutes.
+      complicated setups. Get started within 5 minutes. Works with the vanilla
+      OpenOSRS client. (Not Runelite!)
     actions:
       - label: Discord
         url: /features
