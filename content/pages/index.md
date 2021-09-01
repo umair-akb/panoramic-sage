@@ -34,7 +34,7 @@ sections:
           banned so far. Great for Ironmen and for mass muling! Join our Discord
           to purchase.
         align: left
-        image: images/feature.svg
+        image: /images/AQWC1No8DP.gif
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
