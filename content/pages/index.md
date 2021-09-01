@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/openosrs.png
+    image: /images/5261599-middle.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
