@@ -29,10 +29,10 @@ sections:
     title: Featured Plugins
     features:
       - title: Auto Plank Maker Pro Plugin
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Fully automated plankmaker plugin for oldschool runescape! No users
+          banned so far. Great for Ironmen and for mass muling! Join our Discord
+          to purchase.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
